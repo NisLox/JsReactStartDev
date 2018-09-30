@@ -1,6 +1,6 @@
-# MEWP Decision Aid
+# Will Projects
 
-This is a demo of the functionality that MASS could deliver as a side-project of the MEWP project.
+Project Template
 
 ## Getting Started
 
@@ -18,7 +18,10 @@ A step by step series of examples that tell you how to get a development env run
 2. Enter the following commands:
 
 ```
-npm run install:all
+npm install
+
+There could be a few packages missing, will test it out soon
+
 npm start
 ```
 
